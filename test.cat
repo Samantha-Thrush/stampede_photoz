@@ -1,0 +1,6 @@
+#   1 XMIN_IMAGE             Minimum x-coordinate among detected pixels                 [pixel]
+#   2 YMIN_IMAGE             Minimum y-coordinate among detected pixels                 [pixel]
+#   3 XMAX_IMAGE             Maximum x-coordinate among detected pixels                 [pixel]
+#   4 YMAX_IMAGE             Maximum y-coordinate among detected pixels                 [pixel]
+#   5 VECTOR_ASSOC           ASSOCiated parameter vector                               
+       841        629        846        635           99
